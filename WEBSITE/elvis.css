@@ -1,0 +1,21 @@
+body {
+	background-color: plum;
+}
+
+h1{
+	font-family: cursive;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p{
+	font-family: Fixed, monospace;
+	font-size: 25px;
+	text-align: center;
+}
+
+ul{
+	font-family: Fixed, monospace;
+	font-size: 20px;
+	text-align: center;
+}
